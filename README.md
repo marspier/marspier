@@ -12,6 +12,7 @@
 👋 Hi! I'm Marisela, a passionate data analyst with a love for solving problems and uncovering valuable data stories.
 
 🔧 My expertise includes:
+
 -Python
 
 -SQL 
