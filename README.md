@@ -32,6 +32,13 @@ Each project highlights my ability to turn data into actionable insights, solvin
 Feel free to explore the following:
 
 
+
+<h3>🤝 Let's Connect!</h3>
+<p style="font-family: Arial; font-size: 18px;"
+
+I would love to hear from you! Feel free to reach out via LinkedIn 
+
+
 <!---
 marspier/marspier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
