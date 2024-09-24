@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @marspier
-- 👀 I’m interested in cooking, hiking, and playing piano 
+👋 Hi! I'm Marisela, a passionate data analyst with a love for solving problems and uncovering valuable data stories.
+
+🔧 My expertise includes Python, SQL, Tableau, and data visualization.I enjoy looking into data to solve business problems and to improve processes.
+
+💼 Currently working on projects that help businesses make data-driven decisions and improve efficiency. Always eager to learn new tools and techniques!
+
+📫 Feel free to check out my work or reach out for collaboration!
 
 
 <!---
