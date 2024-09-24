@@ -1,4 +1,4 @@
-![Alt text]([](https://github.com/marspier/marspier/blob/main/Brown%20Paper%20Motivation%20Quote%20Linked%20in%20Banner.png?raw=true))
+![Alt text](https://github.com/marspier/marspier/blob/main/Brown%20Paper%20Motivation%20Quote%20Linked%20in%20Banner.png?raw=true)
 
 
 
