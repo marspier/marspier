@@ -23,8 +23,9 @@
 
 
 
+<h2>📂 My Projects</h2>
+<p style="font-family: Arial; font-size: 18px;"
 
-📂 My Projects
 I’m excited to share some of my projects that showcase my skills in data analysis and visualization.
 Each project highlights my ability to turn data into actionable insights, solving real-world business challenges.
 Feel free to explore the following:
