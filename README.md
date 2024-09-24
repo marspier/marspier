@@ -13,8 +13,11 @@
 
 🔧 My expertise includes:
 -Python
+
 -SQL 
+
 -Tableau
+
 -Data visualization.
 
 💼 Currently working on projects that help businesses make data-driven decisions and improve efficiency. Always eager to learn new tools and techniques!
