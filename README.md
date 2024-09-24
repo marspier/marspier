@@ -11,11 +11,23 @@
 
 👋 Hi! I'm Marisela, a passionate data analyst with a love for solving problems and uncovering valuable data stories.
 
-🔧 My expertise includes Python, SQL, Tableau, and data visualization.I enjoy looking into data to solve business problems and to improve processes.
+🔧 My expertise includes:
+-Python
+-SQL 
+-Tableau
+-Data visualization.
 
 💼 Currently working on projects that help businesses make data-driven decisions and improve efficiency. Always eager to learn new tools and techniques!
 
 📫 Feel free to check out my work or reach out for collaboration!
+
+
+
+
+📂 My Projects
+I’m excited to share some of my projects that showcase my skills in data analysis and visualization.
+Each project highlights my ability to turn data into actionable insights, solving real-world business challenges.
+Feel free to explore the following:
 
 
 <!---
