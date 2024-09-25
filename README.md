@@ -33,7 +33,7 @@
 I’m excited to share some of my projects that showcase my skills in data analysis and visualization.
 Each project highlights my ability to turn data into actionable insights, solving real-world business challenges.
 
-Feel free to explore the following:
+Feel free to explore the following: [Project Portfolio](https://github.com/marspier/projects-portfolio)!
 
 
 
