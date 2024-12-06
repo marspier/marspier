@@ -45,6 +45,9 @@ I would love to hear from you! Feel free to reach out via LinkedIn
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=marspier&style=flat)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marspier&show_icons=true&hide_title=true)
+
+
 <!---
 marspier/marspier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
