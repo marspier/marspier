@@ -42,7 +42,8 @@ Feel free to click on the link  to explore  👉[My Projects Portfolio](https://
 
 I would love to hear from you! Feel free to reach out via LinkedIn 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=marspier.README.md)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=marspier.my-repository)
+
 
 <!---
 marspier/marspier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
