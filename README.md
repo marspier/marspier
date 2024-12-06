@@ -45,9 +45,8 @@ I would love to hear from you! Feel free to reach out via LinkedIn
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=marspier&style=flat)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marspier&show_icons=true&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marspier&layout=compact)
+
 
 
 <!---
