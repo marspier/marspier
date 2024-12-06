@@ -42,7 +42,7 @@ Feel free to click on the link  to explore  👉[My Projects Portfolio](https://
 
 I would love to hear from you! Feel free to reach out via LinkedIn 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=marspier)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=marspier&style=flat)
 
 
 <!---
